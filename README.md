@@ -37,6 +37,6 @@ Instalación y configuración
         Abre tu navegador y visita la siguiente URL para comenzar a usar la aplicación.
         http://127.0.0.1:8000
 
-8. Finalmente se va a contar con una interza donde va a mostrar el listado de empleados , con los diferentes campos , y va tener opcion de crear , eliminar, modificar siendo intuitiva y amigable con el usuario.
+8. Finalmente se va a contar con una interfaz donde va a mostrar el listado de empleados  con los diferentes campos  y va tener opcion de crear , eliminar, modificar siendo intuitiva y amigable con el usuario.
 
 Con los pasos anteriores se puede llevar a cabo completamente con la ejecucion de la aplicacion.
